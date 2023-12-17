@@ -1,0 +1,3 @@
+aws_availability_zone = "eu-north-1a"
+security_key = "k3s-cluster"
+admin_public_ipv4=""
